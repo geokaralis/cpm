@@ -1,0 +1,3 @@
+/Users/george/Desktop/cpm/CMakeFiles/cpm.dir
+/Users/george/Desktop/cpm/CMakeFiles/ALL_BUILD.dir
+/Users/george/Desktop/cpm/CMakeFiles/ZERO_CHECK.dir
