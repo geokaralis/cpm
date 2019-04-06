@@ -68,6 +68,7 @@
 		5088B769C3A8448F91E6202D /* cpm.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; path = cpm.cpp; sourceTree = SOURCE_ROOT; };
 		5EC874C822574DD90098A91D /* token.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = token.cpp; sourceTree = "<group>"; };
 		5EC874C922574DD90098A91D /* token.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = token.h; sourceTree = "<group>"; };
+		5EC874CC2258CBD80098A91D /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		955A6103DA8F454189184478 /* cpm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = cpm; sourceTree = BUILT_PRODUCTS_DIR; };
 		A774CE7FA70543AE92271747 /* manager.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; path = manager.cpp; sourceTree = SOURCE_ROOT; };
 		E02B8809CCCE44A6B4E3482C /* CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; lastKnownFileType = text; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
@@ -106,6 +107,7 @@
 				D0703B5B0A164B2DA6C71CF0 /* Source Files */,
 				59FC0DB3BF554C0DB504D342 /* Header Files */,
 				E2DACFA3F14F4BDE96781C49 /* CMakeLists.txt */,
+				5EC874CC2258CBD80098A91D /* .gitignore */,
 			);
 			name = cpm;
 			sourceTree = "<group>";
