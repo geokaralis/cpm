@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="80px" viewBox="0 0 180 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(6.000000, 8.000000)" fill-rule="nonzero">
+            <path d="M77.3128019,49.41 L77.3128019,64.05 L53.4637681,64.05 L48.4842995,60.9128571 L48.4842995,49.41 L4.9794686,49.41 L0,46.1421429 L0,0 L4.9794686,4.18285714 L162.75,4.18285714 L162.75,49.41 L77.3128019,49.41 Z" id="Combined-Shape-Copy" fill="#8E0F1C"></path>
+            <path d="M82.5628019,49.4141921 L82.5628019,64.05 L53.7342995,64.05 L53.7342995,49.4141921 L5.25,49.4141921 L5.25,4.2 L168,4.2 L168,49.4141921 L82.5628019,49.4141921 Z" id="Combined-Shape" fill="#FF152E"></path>
+            <polygon id="Rectangle" fill="#FF152E" points="0 0 161.56875 0 168 4.2 4.9875 4.2"></polygon>
+            <path d="M32.55,45.15 L11.55,45.15 L11.55,18.9 L11.55,8.4 L53.55,8.4 L53.55,18.9 L32.55,18.9 L32.55,34.65 L53.55,34.65 L53.55,45.15 L32.55,45.15 Z" id="Combined-Shape" fill="#120909"></path>
+            <path d="M78.75,34.65 L89.25,34.65 L89.25,18.9 L78.75,18.9 L78.75,34.65 Z M78.75,45.15 L78.75,60.9 L57.75,60.9 L57.75,8.4 L78.75,8.4 L105,8.4 L105,18.9 L105,45.15 L89.25,45.15 L78.75,45.15 Z" id="Combined-Shape" fill="#120909"></path>
+            <path d="M142.8,18.9 L142.8,45.15 L130.725,45.15 L130.725,18.9 L127.05,18.9 L127.05,45.15 L109.2,45.15 L109.2,8.4 L127.05,8.4 L161.7,8.4 L161.7,18.9 L161.7,45.15 L145.95,45.15 L145.95,18.9 L142.8,18.9 Z" id="Combined-Shape" fill="#120909"></path>
+        </g>
+    </g>
+</svg>
